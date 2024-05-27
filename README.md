@@ -24,8 +24,8 @@ Insights:
 - Feature Ranking: Identified which feature is the most important to customers from the most importance to least importance.
 - Focusing on Long-Term Growth: The company should focus on ExtraContent and Ads to provide long-term values to attract new customers and keep current customers.
 - Top-Preferences of Extra Content and Ads from Customers: 
-      + One ad per day with Disney or HBO ExtraContent in the top 1st and 2nd.
-      + One ad per show with Prime Original or Marvel ExtraContent in the top 3rd and 4rd.
++ One ad per day with Disney or HBO ExtraContent in the top 1st and 2nd.
++ One ad per show with Prime Original or Marvel ExtraContent in the top 3rd and 4rd.
 
 Next Steps:
 - Netflix should comparing the financial gains from ads with the costs of new content, so they can evaluate the impact of these strategies on attracting new customers or renewing subscriptions.
